@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(160, 231, 207);
+}
+.caja{
+    width: 500px;
+    height: auto;
+    background-color: rgb(243, 243, 243);
+    padding: 5%;
+    margin: auto;
+    margin-top: 15%;
+}
+.uno{
+    font-size: 10px;
+}
+.dos{
+    font-size: 15px;
+}
+.tres{
+    font-size: 20px;
+}
+.cuatro{
+    font-size: 25px;
+}
+.cinco{
+    font-size: 30px;
+}
+.seis{
+    font-size: 35px;
+}
+.siete{
+    font-size: 40px;
+}
+.ocho{
+    font-size: 45px;
+}
+.nueve{
+    font-size: 50px;
+}
+.diez{
+    font-size: 55px;
+}
